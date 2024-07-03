@@ -19,4 +19,5 @@ public class ProductCollection implements Iterable{
     public Iterator iterator() {
         return products.iterator();
     }
+
 }
